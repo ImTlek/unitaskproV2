@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "342277407185",
+    "project_id": "tdpwork-484a0",
+    "storage_bucket": "tdpwork-484a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342277407185:android:6dca50603dff1e8ce920f0",
+        "android_client_info": {
+          "package_name": "com.util.dp.unitaskpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342277407185-onq1fokoae383cm0t8364kibpl4ultfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDCPxdtdaAf_KI74D2oUqK-5w7xEu_SlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342277407185-onq1fokoae383cm0t8364kibpl4ultfa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "342277407185-ca3rgc8atpe6flq6r7464527pr3tc549.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.util.dp.unitaskpro.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

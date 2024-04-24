@@ -1,0 +1,138 @@
+{
+    "tMyday":"Менің бір күнім",
+      "tTask": "Тапсырма",
+      "tImportant": "Маңызды",
+      "tSchedule": "Кесте",
+      "tSection": "Бөлім",
+      "tTheme": "Тақырып",
+      "tAbout": "Туралы",
+      "tName": "Аты",
+      "tLastname": "Тегі",
+      "tEmail": "Электронды пошта",
+      "tkazakh": "қазақша",
+      "tEnglish": "Ағылшынша",
+      "tRussian": "Орысша",
+      "tLight": "Жарық",
+      "tDark": "Қара",
+      "tSystem": "Жүйе",
+      "tChangetheme": "Тақырыпты өзгерту",
+      "tShareacopy": "Нұсқаны бөлу",
+      "tPrintlist": "Тізімді басып шығару",
+      "tEventSchedule": "Оқиға кестесі",
+      "tUpdate": "Жаңарту",
+      "tEdit": "Өңдеу",
+  
+    "tDuedate":"Тапсырыс күні",
+    "tRemindme":"Естіге ескерту",
+    "tRepeat":"Қайталау",
+    "tLastmodified":"Соңғы өзгертілді",
+    "tChangetheme":"Тақырыпты өзгерту",
+
+  
+    "tCreatedAt":"Қосылған уақыт",
+
+  "tUpdateRequired":"Программаның жаңа нұсқасы бар. тиімділік және қауіпсіздік үшін соңғы нұсқага жаңартуыңызды сұраймыз.",
+  "tCommon":"Жалпы",
+  "tAccount":"Аккаунт",
+  "tDeleteaccount":"Аккаунты жою",
+  "tFAQ":"Жиі қойылатын сұрақтар",
+  "tPleaselogin":"Жүйеге кіріңіз",
+
+  "tLogin": "Кіру",
+  "tRigister": "Тіркелу",
+  "tPhoneNumber": "Телефон нөмірі",
+  "tPassword": "Құпия сөз",
+  "tOldPassword":"Ескі Құпия сөз",
+  "tNewPassword":"Жаңа Құпия Сөз",
+
+  "tRepeatPassword": "Құпия сөзді қайталау",
+  "tWelcome": "Қош келдіңіз!",
+  "tEmai": "Логин",
+  "tForgetPassword": "Құпия сөзді ұмыттым",
+  "tLoign2system": "Жүйеге кіру",
+  "tRegiste2system": "Жүйеге тіркелу",
+  "tFullName": "Толық аты",
+  "tEnterthecode": "Кодты енгізіңіз",
+  "tSMScodesent": "SMS код жіберілді",
+  "tEditphonenumber": "Телефон нөмірін өзгерту",
+  "tDonthaveAccount": "Тіркелгеніңіз жоқпа?",
+  "tforeignCountry": "Сыртқы өлкелер",
+  "tCostoms": "Таможня",
+  "tSearch": "Іздеу",
+  "tourAddress": "Біздің мекенжайымыз",
+  "tUnclaimedgoods": "Иесіз тауарлар",
+  "tOurservices": "Біздің қызметтер",
+  "tNotification": "Хабарландырулар",
+  "tReport": "Есеп",
+  "tLogout": "Шығу",
+  "tLanguage": "Тіл",
+  "tConntact": "Байланысу",
+
+  "tTermsCondition": "Шарттарымен талаптары",
+  "tOn1": "Жылдам жеткізу жүйесі",
+  "tOn2": "Онлайн карго бақылау",
+  "tOn3": "Қолжетімді мобильді қосымша",
+
+
+  "tAbroad": "Шетел-Гуанжоу",
+  "tAbroadShort": "Шетел",
+
+  "tBorder": "Шекара-Қорғас",
+  "tBorderShort": "Шекара",
+
+  "tKazakhstan": "Қазақстан-Алматы",
+  "tKazakhstanShort": "Қазақстан",
+  "tSent": "Жіберілді",
+  "laboutdescription":"Uni Task Pro - біздің оқулық тапсырыстарын басқаруға қатынау жеріне қош келдіңіз! Мерзімдер мақсатқа жеткізуге, және сәтті қазіргі күнде бірінші алдын ала орналастырылған тапсырмалар мақсатында келесі. Академиялық жолдарды тиімділік пен оңайлықпен басуға қосылыңыз.",
+  "tSettings":"Баптаулар",
+  
+  "tEffective":"Тиімді",
+  "tFast":"Жылдам",
+  "tSafe":"Қауіпсіз",
+
+  "lempty":"Бос",
+  "tabout":"Біз туралы",
+  "tBindingGoogleAccount":"Google аккаунтты байлау",
+  
+
+  "tReceiverName":"Қабылдаушы",
+  "tPhone":"Телефон",
+  "tAddress":"Мекенжай",
+  "tDetailsAddress":"Мекенжай егжей-тегжейі",
+  "tPostCode":"Пошталық код",
+
+  "tProfile": "Профиль",
+  "tEditProfile": "Профильді өзгерту",
+  "tShareThisApp": "Бұл қосымшаны бөлеу",
+  "tRatethisApp":"Осы қолданбаны бағалаңыз",
+  "tInformation": "Мәлімет",
+  "tGoods": "Товарлар",
+  "tAddorder": "Тапсырыс қосу",
+  "tOwnerlessGoods": "Иесіз тауарлар",
+  "tTrackCode": "Тауар коды",
+  "tPrivacyPolicy": "Құпиялылық саясаты",
+  "tTermsandconditions": "Құқықтар мен шарттар",
+  "tContact": "Байланысу",
+  
+  "tDetails":"Толық мәліметтер",
+  "tLogoutStr":"Жүйеден шыққыңыз келе ме ?",
+  "tYes":"Иә",
+  "tNo":"Жоқ",
+  "tUpdata":"Жаңарту",
+
+  "tJoinedAt":"Қосылды",
+  "tDelete":"Жою",
+
+  "taboutdescription":"MIL LOGISTICS – Қытайдан Қазақстанға тиімді тасымалдау қызметін ұсынатын жүк логистикалық қолданбасы. Біз сенімді жеткізу , нақты уақыттағы,қадағалауды және қауіпсіз жеткізуді ұсынамыз",
+  "tempty":"Бос",
+  "tAddorders":"Тапсырыстарды қосу",
+  "tOrder":"Тапсырыс"
+
+  
+
+
+
+
+
+
+}
